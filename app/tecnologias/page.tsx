@@ -1,10 +1,21 @@
-import React from 'react'
+import React from 'react';
+import tecnologias from '@/app/data/tecnologias.json';
+import TecnologiasCard from '@/components/TecnologiasCard/TecnologiasCard';
 
-export default function tecnologias() {
-  return (
-    <div>
-        <h2 className="text-4x1 font-bold text-blue-400 hover:text-blue-500">Tecnologias</h2>
-        <p className="pt-10"> Eis as tecnologias que usámos em DIW</p>
-    </div>
-  )
+export default function Page() {
+  return <section className="overflow-auto h-">
+      {tecnologias.map((tech) => (
+    
+    <TecnologiasCard
+    key={tech.id}
+    id={tech.id}
+    title={tech.title}
+    image={tech.image}
+    description={tech.description}
+    rating={tech.rating}
+  />
+))}
+
+</section>
+
 }

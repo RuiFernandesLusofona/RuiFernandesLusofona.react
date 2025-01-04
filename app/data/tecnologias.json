@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "HTML",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+    "description": "A linguagem de marcação padrão para a criação de páginas web. Essencial para estruturar o conteúdo de qualquer site.",
+    "rating": {
+      "rate": 4.9,
+      "count": 320
+    }
+  },
+  {
+    "id": 2,
+    "title": "CSS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
+    "description": "Usado para estilizar páginas web e melhorar a aparência de sites com designs responsivos e modernos.",
+    "rating": {
+      "rate": 4.7,
+      "count": 290
+    }
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "description": "Uma linguagem de programação poderosa para criar interatividade e funcionalidades dinâmicas em websites.",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 4,
+    "title": "JSON",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg",
+    "description": "Formato leve de intercâmbio de dados, amplamente utilizado em APIs e aplicações web.",
+    "rating": {
+      "rate": 4.5,
+      "count": 200
+    }
+  },
+  {
+    "id": 5,
+    "title": "API RESTful",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/RESTful_logo.svg",
+    "description": "Um estilo de arquitetura para criar APIs, permitindo comunicação eficiente entre cliente e servidor.",
+    "rating": {
+      "rate": 4.6,
+      "count": 250
+    }
+  },
+  {
+    "id": 6,
+    "title": "Swagger",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
+    "description": "Ferramenta para documentação e testes de APIs, facilitando a integração entre desenvolvedores.",
+    "rating": {
+      "rate": 4.7,
+      "count": 180
+    }
+  },
+  {
+    "id": 7,
+    "title": "GitHub",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "description": "Plataforma para alojamento de código e colaboração, essencial para o desenvolvimento em equipa.",
+    "rating": {
+      "rate": 5.0,
+      "count": 500
+    }
+  },
+  {
+    "id": 8,
+    "title": "Codespaces",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "description": "Ambiente de desenvolvimento baseado em cloud, permitindo codificar diretamente no navegador.",
+    "rating": {
+      "rate": 4.4,
+      "count": 150
+    }
+  },
+  {
+    "id": 9,
+    "title": "GitHub Pages",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "description": "Serviço que permite hospedar sites diretamente a partir de repositórios GitHub.",
+    "rating": {
+      "rate": 4.6,
+      "count": 210
+    }
+  },
+  {
+    "id": 10,
+    "title": "React.js",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+    "description": "Biblioteca JavaScript para construir interfaces de utilizador reativas e componentizadas.",
+    "rating": {
+      "rate": 4.9,
+      "count": 430
+    }
+  },
+  {
+    "id": 11,
+    "title": "Next.js",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg",
+    "description": "Framework React para aplicações web rápidas, com funcionalidades de renderização no servidor.",
+    "rating": {
+      "rate": 4.8,
+      "count": 390
+    }
+  },
+  {
+    "id": 12,
+    "title": "Vercel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg",
+    "description": "Plataforma de hosting otimizada para aplicações Next.js, com deploy rápido e eficiente.",
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    }
+  }
+]

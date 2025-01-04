@@ -1,7 +1,8 @@
 import React from 'react'
 import styles from './Footer.module.css'
+
 export default function Footer() {
-  return (
-    <div className={styles.footer}>Footer</div>
-  )
+  return <footer className={styles.footer}>
+    Rui Fernandes, 2025
+  </footer>
 }
